@@ -1,16 +1,45 @@
-# acessories
-
-A new Flutter project.
+# RohSha Product Manager
+ The application allows users to register, log in securely, and manage products through a clean and responsive interface.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/your-username/rohsha-product-manager.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Open the project
+
+```bash
+cd rohsha-product-manager
+```
+
+3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+5. Run the application
+
+```bash
+flutter run
+```
+
+
+
+## Project Information
+
+**Project Name:** RohSha Product Manager
+
+
+## Author
+
+**Rohma Shahid**
+
+---
+
+⭐ If you found this project helpful, consider giving it a star.
